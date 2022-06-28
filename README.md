@@ -8,7 +8,7 @@ You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
 To execute Python codes type on the terminal: 
 - python3 (file name).py
 
-To execute C codes: 
+To execute C codes type on the terminal: 
 - /make (file name)
 - ./(file name)
 
