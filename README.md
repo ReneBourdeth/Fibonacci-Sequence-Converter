@@ -2,6 +2,9 @@
 
 The Fibonacci sequence is a series of numbers in which each number is the sum of the two that precede it.
 
+# Try it!
+You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
+
 # How it works / What it does
 
 This program converts decimal numbers to the fibonacci sequence numbers. 
