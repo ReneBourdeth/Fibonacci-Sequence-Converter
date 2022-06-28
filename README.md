@@ -5,12 +5,15 @@ The Fibonacci sequence is a series of numbers in which each number is the sum of
 # Try it!
 You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
 
-To execute Python codes type on the terminal: 
-- python3 (file name).py
+To test the codes first you need to enter the directory, type on the terminal:
+- cd ReneBourdeth/
 
-To execute C codes type on the terminal: 
-- /make (file name)
-- ./(file name)
+To execute Python programs type on the terminal: 
+- python3 (filename).py
+
+To execute C programs type on the terminal: 
+- /make (filename)
+- ./(filename)
 
 # How it works / What it does
 
