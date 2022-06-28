@@ -5,7 +5,7 @@ The Fibonacci sequence is a series of numbers in which each number is the sum of
 # Try it!
 You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
 
-To execute Python codes type on the terminal: pyhton3 (name of the file).py
+To execute Python codes type on the terminal: python3 (name of the file).py
 
 To execute C codes: 
 
