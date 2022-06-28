@@ -6,11 +6,11 @@ The Fibonacci sequence is a series of numbers in which each number is the sum of
 You can try this and more codes by entering this link: https://bit.ly/3u5JbIH
 
 To execute Python codes type on the terminal: 
-python3 (file name).py
+-python3 (file name).py
 
 To execute C codes: 
-/make (file name)
-./(file name)
+-/make (file name)
+-./(file name)
 
 # How it works / What it does
 
