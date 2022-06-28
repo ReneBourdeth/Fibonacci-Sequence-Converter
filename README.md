@@ -8,6 +8,7 @@ To exceute Python codes type on the terminal:
 
 pyhton3 (name of the file).py
 
+
 To execute C codes: 
 
 # How it works / What it does
